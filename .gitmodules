@@ -1,0 +1,15 @@
+[submodule "jsonlab"]
+	path = jsonlab
+	url = https://github.com/fangq/jsonlab.git
+[submodule "RANSAC-Toolbox"]
+	path = ransac
+	url = https://github.com/RANSAC/RANSAC-Toolbox.git
+[submodule "DeepLearnToolbox"]
+	path = deeplearning
+	url = https://github.com/rasmusbergpalm/DeepLearnToolbox.git
+[submodule "piotr"]
+	path = piotr
+	url = https://github.com/pdollar/toolbox.git
+[submodule "sed"]
+	path = sed
+	url = https://github.com/pdollar/edges.git
