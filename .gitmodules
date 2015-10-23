@@ -13,3 +13,6 @@
 [submodule "sed"]
 	path = sed
 	url = https://github.com/pdollar/edges.git
+[submodule "vlfeat"]
+	path = vlfeat
+	url = https://github.com/vlfeat/vlfeat.git
